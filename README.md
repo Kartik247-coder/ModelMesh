@@ -94,6 +94,3 @@ Provider support is configuration-driven. Use only the providers, models, and fe
 
 Model Mesh is actively being shaped around a narrow goal: dependable API routing for selected AI models. The public interface may evolve as that core workflow is refined.
 
-## Attribution
-
-Model Mesh is maintained by Kartik Bobde and builds on the open-source work in the included `core` submodule. See [LICENSE](LICENSE) and the submodule's repository for the applicable upstream license and notices.
