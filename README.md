@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[English](./README.md) | [Chinese](./README_CN.md)
+
 
 ## Introduction
 
